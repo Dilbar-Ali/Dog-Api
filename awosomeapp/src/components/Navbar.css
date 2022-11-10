@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    top: 0;
+}
+.Navbar{
+    background-color: darkslategray;
+    font-size: 25px;
+    padding: 0px;
+    width: 100vw;
+}
